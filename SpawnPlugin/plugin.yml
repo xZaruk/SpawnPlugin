@@ -1,0 +1,12 @@
+author: xZaruk
+name: Spawn
+main: de.zaruk.spawn.core.SpawnPlugin
+version: 1.0
+description: Spawnbefehl
+prefix: EndSucht
+
+commands:
+     setspawn:
+       description: Setzt den Spawn
+     spawn:
+       description: Teleportiert zum Spawn
